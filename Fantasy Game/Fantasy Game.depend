@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1621452538 source:c:\users\keaton\desktop\fantasy game\allegrofunctions.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1621501779 source:c:\users\keaton\desktop\fantasy game\button.cpp
+	"Button.h"
+
+1621538784 c:\users\keaton\desktop\fantasy game\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<string>
+	<vector>
+
+1621503048 source:c:\users\keaton\desktop\fantasy game\character.cpp
+	"Character.h"
+
+1621532498 c:\users\keaton\desktop\fantasy game\character.h
+	"Button.h"
+	<allegro5/allegro_primitives.h>
+	<iostream>
+
+1621534359 source:c:\users\keaton\desktop\fantasy game\hunter.cpp
+	"Hunter.h"
+
+1621500541 c:\users\keaton\desktop\fantasy game\hunter.h
+	"Character.h"
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	<string>
+
+1621470999 source:c:\users\keaton\desktop\fantasy game\playfunctions.cpp
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1621466489 c:\users\keaton\desktop\fantasy game\header.h
+	"Character.h"
+	"Warrior.h"
+	"Hunter.h"
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+
+1621500541 c:\users\keaton\desktop\fantasy game\warrior.h
+	"Character.h"
+	<allegro5/allegro_native_dialog.h>
+	<iostream>
+	<string>
+
+1621534359 source:c:\users\keaton\desktop\fantasy game\warrior.cpp
+	"Warrior.h"
+
